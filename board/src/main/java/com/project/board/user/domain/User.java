@@ -10,7 +10,7 @@ import java.time.LocalDateTime;
 @NoArgsConstructor
 public class User {
 
-    private Long UserUid; // Unique identifier
+    private Long userUid; // Unique identifier
     private String userId;
     private String userPwd;
     private String userName;
